@@ -3952,6 +3952,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Council](https://cyberwarex.com/assets/council-quickstart.html) `https://council.cyberwarex.com/mcp`
   [![Agent Council MCP connector](https://glama.ai/mcp/connectors/com.cyberwarex.council/agent-council/badges/score.svg)](https://glama.ai/mcp/connectors/com.cyberwarex.council/agent-council)
   🔓 - One question goes to 3-4 models; a chair returns one verdict with a confidence score and the dissent that held.
+- [flybrain-connectome](https://github.com/lm203688/flybrain-connectome) `https://github.com/lm203688/flybrain-connectome`
+  🔓 - Auditable agent topology generator with 36 MCP tools: derives multi-agent architectures from real Drosophila MaleCNS v1.0 connectome motifs with W3C PROV-JSON provenance. EU AI Act compliant. Exports to LangGraph, CrewAI, AutoGen.
 
 ### 🔎 <a name="search--data-extraction"></a>Search & Data Extraction
 
