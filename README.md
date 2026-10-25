@@ -3817,6 +3817,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Zebu Data - Zillow Real Estate Data](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/zillow-property-data-scraper,delicious_zebu/zillow-property-details-scraper`
   [![Zebu Data - Zillow Real Estate Data MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/real-estate-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/real-estate-data)
   🔐 - Zillow listings and property details: price, Zestimate, rent estimate, history, schools, agents.
+### 🤖 <a name="robotics--industrial"></a>Robotics & Industrial
+
+- [RoboParts](https://roboparts.cc) `https://roboparts.cc/mcp`
+  [![RoboParts MCP connector](https://glama.ai/mcp/connectors/cc.roboparts/roboparts/badges/score.svg)](https://glama.ai/mcp/connectors/cc.roboparts/roboparts)
+  🔓 - Vendor-neutral robot hardware compatibility checker. Three-state verdicts across 868 entities; printable adapters.
+
 ### 🚗 <a name="sales"></a>Sales
 
 - [Alion](https://alion.io/developers/agents) `https://alion.io/mcp`
@@ -3952,8 +3958,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Council](https://cyberwarex.com/assets/council-quickstart.html) `https://council.cyberwarex.com/mcp`
   [![Agent Council MCP connector](https://glama.ai/mcp/connectors/com.cyberwarex.council/agent-council/badges/score.svg)](https://glama.ai/mcp/connectors/com.cyberwarex.council/agent-council)
   🔓 - One question goes to 3-4 models; a chair returns one verdict with a confidence score and the dissent that held.
-- [flybrain-connectome](https://github.com/lm203688/flybrain-connectome) `https://github.com/lm203688/flybrain-connectome`
-  🔓 - Auditable agent topology generator with 36 MCP tools: derives multi-agent architectures from real Drosophila MaleCNS v1.0 connectome motifs with W3C PROV-JSON provenance. EU AI Act compliant. Exports to LangGraph, CrewAI, AutoGen.
 
 ### 🔎 <a name="search--data-extraction"></a>Search & Data Extraction
 
